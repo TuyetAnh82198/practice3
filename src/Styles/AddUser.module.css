@@ -1,0 +1,41 @@
+.input {
+  margin-top: 2rem;
+  margin-left: 0.5rem;
+  padding: 1rem;
+  width: 90%;
+  width: 40rem;
+}
+
+.adduser {
+  margin-top: 1rem;
+}
+
+.input label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  text-align: left;
+}
+
+.input input {
+  font: inherit;
+  display: block;
+  width: 100%;
+  border: 1px solid #ccc;
+  padding: 0.15rem;
+  margin-bottom: 0.5rem;
+}
+
+.input input:focus {
+  outline: none;
+  border-color: #4f005f;
+}
+.btn {
+  text-align: left;
+  margin-left: 1.6rem;
+  margin-top: -0.5rem;
+  padding-bottom: 1rem;
+}
+.username {
+  margin-top: -2rem;
+}
